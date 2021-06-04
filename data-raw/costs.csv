@@ -1,0 +1,6 @@
+,fixed_inst,associated_inst,sus_inst,fixed_use,associated_use,associated_fuel,technical_life
+solar,5000000,1100000,0.03,1778400,2.5,0,20
+wind,10000000,1880000,0.025,3510000,7.5,0,20
+bess,0,650000,0.15,700000,0,0,20
+diesel,0,850000,0.02,1965600,1.5,252.6144,10
+infrastructure,30000000,0,0.01,0,0,0,0

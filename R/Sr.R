@@ -1,0 +1,20 @@
+#' On Site Solar Radiation
+#'
+#' A dataset containing the average, standard deviation, maximum and minimum solar radiation from the on site met mast for every 10-minute period since 15/5/2018.There were 393 missing values contained in the raw data which have been imputed using `imputeTS::na_interpolation` with linear default settings.
+#'
+#' @usage data(Sr)
+#'
+#' @format A data frame with 150000 rows and 6 variables:
+#' \describe{
+#'   \item{AvgSr}{Calibrated AvgSr 2.5m (W/m²)}
+#'   \item{AvgSr2}{Calibrated AvgSr 2.5m SR2 (W/m²)}
+#'   \item{StdSr}{Calibrated StdSr 2.5m (W/m²)}
+#'   \item{StdSr2}{Calibrated StdSr 2.5m SR2 (W/m²)}
+#'   \item{MaxSr}{Calibrated MaxSr 2.5m (W/m²)}
+#'   \item{MaxSr2}{Calibrated MaxSr 2.5m SR2 (W/m²)}
+#'   \item{MinSr}{Calibrated MinSr 2.5m (W/m²)}
+#'   \item{MinSr2}{Calibrated MinSr 2.5m SR2 (W/m²)}
+#' }
+#' @source \url{https://ws1.windserver.com/WindServer/} U: JRowntree P: 100Diesel
+#'
+"Sr"

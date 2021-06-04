@@ -1,0 +1,241 @@
+group,variable,year,nominal,min,max,units,source
+solar,associated_capacity,2020,1408,1408,1408,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2021,1272,1209,1363,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2022,1178,1067,1323,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2023,1128,994,1290,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2024,1084,927,1260,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2025,1041,885,1229,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2026,1002,857,1199,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2027,964,833,1172,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2028,931,813,1150,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2029,901,796,1130,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2030,874,780,1114,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2031,852,770,1102,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2032,835,754,1094,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2033,822,742,1089,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2034,810,726,1083,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2035,790,703,1077,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2036,773,681,1071,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2037,756,649,1067,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2038,748,624,1063,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2039,739,597,1060,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2040,727,582,1056,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2041,710,576,1053,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2042,689,571,1023,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2043,669,567,992,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2044,650,565,958,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2045,632,563,948,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2046,617,561,939,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2047,606,556,932,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2048,597,552,927,AUD/kW,GenCost Report 2020-21
+solar,associated_capacity,2049,589,547,921,AUD/kW,GenCost Report 2020-21
+solar,associated_usage,2020,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2021,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2022,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2023,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2024,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2025,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2026,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2027,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2028,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2029,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2030,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2031,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2032,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2033,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2034,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2035,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2036,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2037,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2038,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2039,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2040,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2041,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2042,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2043,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2044,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2045,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2046,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2047,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2048,17,17,17,AUD/kW/year,GenCost Report 2020-21
+solar,associated_usage,2049,17,17,17,AUD/kW/year,GenCost Report 2020-21
+wind,associated_capacity,2020,1951,1951,1951,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2021,1940,1937,1944,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2022,1931,1925,1937,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2023,1923,1915,1931,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2024,1917,1908,1926,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2025,1913,1904,1923,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2026,1911,1901,1920,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2027,1909,1899,1918,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2028,1907,1896,1914,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2029,1902,1894,1907,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2030,1896,1892,1899,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2031,1889,1887,1891,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2032,1881,1878,1884,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2033,1875,1864,1877,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2034,1870,1841,1871,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2035,1863,1826,1867,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2036,1857,1812,1865,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2037,1852,1807,1862,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2038,1848,1802,1860,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2039,1844,1797,1856,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2040,1842,1792,1849,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2041,1835,1786,1838,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2042,1828,1781,1829,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2043,1811,1778,1824,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2044,1798,1776,1821,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2045,1785,1774,1819,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2046,1782,1771,1816,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2047,1779,1766,1812,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2048,1776,1759,1807,AUD/kW,GenCost Report 2020-21
+wind,associated_capacity,2049,1773,1750,1802,AUD/kW,GenCost Report 2020-21
+wind,associated_usage,2020,25,25,25,AUD/kW/year,GenCost Report 2020-21
+wind,associated_usage,2021,25,25,25,AUD/kW/year,
+wind,associated_usage,2022,25,25,25,AUD/kW/year,
+wind,associated_usage,2023,25,25,25,AUD/kW/year,
+wind,associated_usage,2024,31,31,31,AUD/kW/year,Engie Internal
+wind,associated_usage,2025,31,31,31,AUD/kW/year,
+wind,associated_usage,2026,31,31,31,AUD/kW/year,
+wind,associated_usage,2027,31,31,31,AUD/kW/year,
+wind,associated_usage,2028,31,31,31,AUD/kW/year,
+wind,associated_usage,2029,31,31,31,AUD/kW/year,
+wind,associated_usage,2030,27,27,27,AUD/kW/year,Engie Internal
+wind,associated_usage,2031,27,27,27,AUD/kW/year,
+wind,associated_usage,2032,27,27,27,AUD/kW/year,
+wind,associated_usage,2033,27,27,27,AUD/kW/year,
+wind,associated_usage,2034,27,27,27,AUD/kW/year,
+wind,associated_usage,2035,27,27,27,AUD/kW/year,
+wind,associated_usage,2036,28,28,28,AUD/kW/year,Engie Internal
+wind,associated_usage,2037,28,28,28,AUD/kW/year,
+wind,associated_usage,2038,28,28,28,AUD/kW/year,
+wind,associated_usage,2039,28,28,28,AUD/kW/year,
+wind,associated_usage,2040,28,28,28,AUD/kW/year,
+wind,associated_usage,2041,28,28,28,AUD/kW/year,
+wind,associated_usage,2042,28,28,28,AUD/kW/year,
+wind,associated_usage,2043,28,28,28,AUD/kW/year,
+wind,associated_usage,2044,28,28,28,AUD/kW/year,
+wind,associated_usage,2045,28,28,28,AUD/kW/year,
+wind,associated_usage,2046,28,28,28,AUD/kW/year,
+wind,associated_usage,2047,28,28,28,AUD/kW/year,
+wind,associated_usage,2048,28,28,28,AUD/kW/year,
+wind,associated_usage,2049,28,28,28,AUD/kW/year,
+BESS_Li-ion,associated_capacity,2020,596,596,596,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2021,589,549,589,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2022,578,499,583,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2023,578,474,581,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2024,553,429,556,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2025,519,404,546,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2026,493,392,494,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2027,455,379,467,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2028,425,369,442,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2029,405,363,417,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2030,401,360,412,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2031,397,351,407,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2032,394,348,403,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2033,390,345,398,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2034,380,343,388,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2035,383,340,384,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2036,374,338,380,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2037,376,335,377,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2038,367,326,372,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2039,364,323,369,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2040,361,321,365,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2041,358,319,361,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2042,355,317,357,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2043,352,314,354,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2044,343,312,344,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2045,341,303,347,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2046,337,301,338,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2047,334,298,342,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2048,325,290,333,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_capacity,2049,321,295,330,AUD/kWh,GenCost Report 2020-21
+BESS_Li-ion,associated_usage,2020,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2021,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2022,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2023,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2024,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2025,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2026,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2027,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2028,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2029,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2030,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2031,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2032,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2033,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2034,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2035,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2036,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2037,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2038,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2039,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2040,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2041,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2042,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2043,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2044,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2045,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2046,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2047,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2048,10,10,10,AUD/kWh,US DOE Report
+BESS_Li-ion,associated_usage,2049,10,10,10,AUD/kWh,US DOE Report
+diesel,associated_capacity,2020,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2021,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2022,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2023,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2024,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2025,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2026,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2027,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2028,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2029,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2030,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2031,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2032,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2033,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2034,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2035,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2036,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2037,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2038,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2039,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2040,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2041,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2042,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2043,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2044,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2045,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2046,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2047,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2048,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_capacity,2049,1548,1441,2340,AUD/kW,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2020,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2021,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2022,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2023,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2024,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2025,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2026,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2027,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2028,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2029,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2030,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2031,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2032,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2033,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2034,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2035,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2036,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2037,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2038,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2039,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2040,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2041,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2042,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2043,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2044,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2045,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2046,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2047,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2048,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"
+diesel,associated_usage,2049,23,21,31,AUD/kW/year,"US DOE Report, GenCost Report 2020-21"

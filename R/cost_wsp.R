@@ -1,0 +1,16 @@
+#' Costing - WSP estimates for the village microgrid
+#'
+#' This dataset contains estimates of capital costs and O&M costs for solar, BESS (Li-ion) and diesel.
+#'
+#' @usage data(cost_wsp)
+#'
+#' @format A dataframe with 3 observations and 5 variables:
+#' \describe{
+#' \item{group}{energy type, one of solar, wind, BESS_Li-ion and diesel.}
+#' \item{variable}{variable name used for cost evaluations, one of associated_capacity (total capital costs $/kW) and associated_usage (fixed O&M $/kW/year). Check out raw data for units and source.}
+#' \item{value}{value of estimate}
+#' }
+#'
+#' @source PS122630-POW-MEM-001 RevC
+#'
+"cost_wsp"

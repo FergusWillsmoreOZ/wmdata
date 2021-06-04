@@ -1,0 +1,51 @@
+---
+title: "WTG_model"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{WTG_model}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(wmdata)
+library(tidyverse)
+library(ggplot2)
+data(Ws)
+```
+
+Consider the wind speed, $\nu_r$, recorded at a reference height, $h_r$, and the proposed wind turbine with hub height, $h_h$, then the wind speed at the hub height, $\nu_h$, is given by
+\[\nu_h = \nu_r\left(\frac{h_h}{h_r}\right)^\gamma\,,\]
+where $\gamma \approx \frac{1}{7}$ for open land. 
+
+Wind turbines start to produce power when the wind speed is greater than the cut-in speed, $\nu_{ci}$, reach their maximum power output when the wind speed is greater than the rated wind speed, $\nu_r$, and stop producing power for high wind speed greater than the cut_out speed, $\nu_{co}$. The power output of a wind turbine is therefore a piecewise function given by
+\[P = \begin{cases} P_r \left(\frac{\nu_h^3 - \nu_{ci}^3}{\nu_r^3-\nu_{ci}^3}\right) & \nu_{ci}\le \nu \le \nu_r\,,\\
+P_r & \nu_r < \nu \le \nu_{co}\,, \\
+0 & \text{otherwise}\,,
+\end{cases}\]
+where $P_r$ is the rated power of the turbine.
+
+Consider the following parameters for a wind turbine:
+```{r}
+cut_in = 4
+cut_out = 25
+rated_speed = 13
+rated_power = 4.2
+```
+
+These parameters produce the following power curve for the wind turbine.
+
+```{r}
+data.frame(speed = seq(0,30,by = 0.1)) %>%
+  dplyr::mutate(power = WTG_model(speed,cut_in,cut_out,rated_speed,rated_power))%>%
+  ggplot(aes(x = speed,y=power)) +
+  geom_line()
+```
+

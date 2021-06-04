@@ -1,0 +1,10 @@
+group,variable,value,units
+solar,associated_capacity,1650,AUD/kWp
+solar,associated_usage,16.5,AUD/kW/year
+solar,associated_usage,7.2,AUD/kW/year
+BESS_Li-ion,associated_capacity,930,AUD/kW
+BESS_Li-ion,susex,0.02,% of capital
+BESS_Li-ion,susex,0.15,% of capital
+diesel,associated_capacity,1200,AUD/kW
+diesel,fixed_usage,12.5,AUD/kW/year
+diesel,associated_usage,0.03,AUD/kWh
