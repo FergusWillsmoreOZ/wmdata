@@ -15,7 +15,7 @@ A dataframe with 148240 observations and 21 variables:
 }
 }
 \source{
-Engie Data Book Rev 2
+On-site Met Mast
 }
 \usage{
 data(Ws)

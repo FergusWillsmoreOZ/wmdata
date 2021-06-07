@@ -13,7 +13,7 @@
 #' \item{MinWs height direction}{Minimum wind speed at height='height' and at direction='direction.}
 #' }
 #'
-#' @source Engie Data Book Rev 2
+#' @source On-site Met Mast
 #'
 #'
 "Ws"

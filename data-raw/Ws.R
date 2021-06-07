@@ -40,7 +40,7 @@ Ws %>%
   purrr::map(function(x) bored::inarow(is.na(x))) %>%
   purrr::map(function(x) dplyr::filter(x,value == TRUE))
 
-# use spline to interpolate missing values
+# use linear to interpolate missing values - spline behaves weirdly
 Ws %<>%
   purrr::map_if(is.numeric,function(x) imputeTS::na_interpolation(x,option = "linear")) %>%
   as.data.frame()
