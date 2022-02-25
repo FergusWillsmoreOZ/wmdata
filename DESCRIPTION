@@ -15,7 +15,7 @@ Suggests:
 Config/testthat/edition: 3
 Depends: 
     R (>= 2.10)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Imports: 
     magrittr
 VignetteBuilder: knitr

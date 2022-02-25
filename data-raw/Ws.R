@@ -1,28 +1,17 @@
 ## code to prepare Ws dataset goes here
 
-Ws <- readr::read_csv("data-raw/Ws.csv",skip = 9)
+library(imputeTS)
+library(tidyverse)
+library(magrittr)
+devtools::install_github("FergusWillsmoreOZ/bored")
+
+Ws <- readr::read_csv("data-raw/Ws.csv",skip = 11)
 
 colnames(Ws) <- c('dtime',
-                  'AvgWs 103.9 044',
-                  'AvgWs 103.9 224',
-                  'AvgWs 80 044',
-                  'AvgWs 60.1 044',
-                  'AvgWs 39.9 044',
-                  'StdWs 103.9 044',
-                  'StdWs 103.9 244',
-                  'StdWs 80 044',
-                  'StdWs 60.1 044',
-                  'StdWs 39.9 044',
-                  'MaxWs 103.9 044',
-                  'MaxWs 103.9 224',
-                  'MaxWs 80 044',
-                  'MaxWs 60.1 044',
-                  'MaxWs 39.9 044',
-                  'MinWs 103.9 044',
-                  'MinWs 103.9 224',
-                  'MinWs 80 044',
-                  'MinWs 60.1 044',
-                  'MinWs 39.9 044'
+                  'AvgWs 103.9',
+                  'AvgWs 80',
+                  'AvgWs 60.1',
+                  'AvgWs 39.9'
 )
 
 Ws$dtime %<>% lubridate::dmy_hm()
