@@ -1,10 +1,10 @@
 Package: wmdata
 Type: Package
-Title: Data for West Musgrave
-Version: 0.1.0
+Title: West Musgrave Data Deposit
+Version: 0.1.1
 Author: Fergus Willsmore
 Maintainer: Fergus Willsmore <Fergus.Willsmore@ozminerals.com>
-Description: Consists of data files pertaining to the power solution at West Musgrave. This includes wind and solar resource tim series, costing etc.
+Description: This package consists of weather data for West Musgrave Power modelling.
 License: None
 Encoding: UTF-8
 LazyData: true
