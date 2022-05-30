@@ -5,9 +5,15 @@
 \alias{metmast}
 \title{Observations from West Musgrave Met Mast.}
 \format{
-A data frame with 201232 rows and 37 variables:
+A data frame with 37 variables consisting of
 \describe{
   \item{datetime}{timestamp of the observation}
+  \item{AvgBp_1.8m}{average barometric pressure at 1.8 metres}
+  \item{AvgRh_5m}{average relative humidity at 5 metres}
+  \item{AvgSr}{average solar radiation}
+  \item(AvgTe_5m){average temperature at 5 metres}
+  \item{AvgTe_97m}{average temperature at 97m}
+  \item{AvgWs_103.9m}{average wind speed at 103.9m}
   ...
 }
 }
@@ -15,6 +21,6 @@ A data frame with 201232 rows and 37 variables:
 metmast
 }
 \description{
-A dataset containing observations of meteorlogical variables every 10 minutes since May 2018.
+A dataset containing observations of meteorlogical variables every 10 minutes since May 2018.This includes average (Avg), minimum (Min), maximum (Max) and standard deviation (Std) values.
 }
 \keyword{datasets}

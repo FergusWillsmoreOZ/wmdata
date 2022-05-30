@@ -3,4 +3,5 @@
 export("%>%")
 export(PV_model)
 export(WTG_model)
+export(wind_power_law)
 importFrom(magrittr,"%>%")

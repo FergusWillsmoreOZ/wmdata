@@ -5,11 +5,7 @@
 \alias{lidar}
 \title{Observations from West Musgrave LiDAR.}
 \format{
-A data frame with 105 variables
-\describe{
-  \item{datetime}{timestamp of the observation}
-  ...
-}
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 10810 rows and 105 columns.
 }
 \usage{
 lidar
