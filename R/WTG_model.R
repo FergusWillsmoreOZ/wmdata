@@ -1,3 +1,18 @@
+#' Power Law for Wind Speeds
+#'
+#' Estimate wind speeds at a target height based on wind speeds recorded at an observed height.
+#'
+#' @param speed wind speed (m/s)
+#' @param height_obs height of observed wind speeds
+#' @param height_tar height of target wind speeds
+#'
+#' @return wind speed (m/s) at target height
+#' @export
+#'
+wind_power_law <- function(speed,height_obs,height_tar){
+  return(speed * (height_tar/height_obs)^(1/7))
+}
+
 #' Wind Turbine Model
 #'
 #' Mathematical model of a wind turbine.
@@ -44,7 +59,7 @@ WTG_model <- function(speed,
   }
 
   # convert speed at reference height to speed at hub height
-  speed <- speed * (height_hub/height_ref)^(1/7)
+  speed <- wind_power_law(speed,height_ref,height_hub)
 
   # update rated power on losses
   power_rated <- power_rated - losses*power_rated
